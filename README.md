@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vedant2707
 - 👀 I’m interested in ...C , Embedded C , IoT  ,Technical Content Writer
 - 🌱 I’m currently learning ...Embedded Engineering ,IoT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Technical Content Writer
 - 📫 How to reach me ... vedantjoshi525@gmail.com
 
 <!---
